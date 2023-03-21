@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @alexpejovic
-- 👀 I’m interested in theoretical computer science, philosophy, and literature
-- I'm a student of Computer Science at the University of Toronto, focusing on formal and mathematical computer science, and the philosophy of mathematics
-- 📫 You can reach me at my email alexpejovic@protonmail.com
+- 👀 I’m interested in Backend Engineering, API Development, and Network Security.
+- I'm a student of Computer Science at the University of Toronto, currently finishing my last semester of my bachelor's degree at ETH Zurich.
+- 📫 You can reach me at my email alexpejovic@hotmail.com
