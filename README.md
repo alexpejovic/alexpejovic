@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @alexpejovic
-- 👀 I’m interested in Backend Engineering, API Development, and Network Security.
+- 👀 I’m interested in Natural Language Processing, Backend Engineering, API Development, and Network Security.
 - I'm a student of Computer Science at the University of Toronto, currently finishing my last semester of my bachelor's degree at ETH Zurich.
 - 📫 You can reach me at my email alexpejovic@hotmail.com
