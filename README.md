@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @alexpejovic
-- 👀 I’m interested in Natural Language Processing, Backend Engineering, API Development, and Network Security.
-- I'm a Bachelor's student of Computer Science at the University of Toronto, currently doing an exchange semester at ETH Zurich.
+- 👀 I’m interested in Natural Language Processing, 
+- I'm a Bachelor's student of Computer Science at the University of Toronto, currently doing NLP research in cross-lingual transfer learning. I also work part-time as a software developer.
 - 📫 You can reach me at my email alexpejovic@hotmail.com
