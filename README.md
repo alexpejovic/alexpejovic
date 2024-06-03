@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @alexpejovic
-- 👀 I’m interested in Natural Language Processing, 
-- I'm a Bachelor's student of Computer Science at the University of Toronto, currently doing NLP research in cross-lingual transfer learning. I also work part-time as a software developer.
-- 📫 You can reach me at my email alexpejovic@hotmail.com
+- 🏫 I'm a recent University of Toronto graduate with a Bachelor of Science degree in Computer Science.
+- 📫 You can reach me at my email alexpejovic@hotmail.com.
