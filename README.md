@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @alexpejovic
 - 🏫 I'm a recent University of Toronto graduate with a Bachelor of Science degree in Computer Science.
-- 📫 You can reach me at my email alexpejovic@hotmail.com.
+- 📫 You can reach me at my email alexpejovic(at)hotmail(dot)com.
